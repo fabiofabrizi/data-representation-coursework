@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+    <book category="technical">
+        <isbn>9781491912058</isbn>
+        <title lang="en">Python Data Science Handbook</title>
+        <author>Jake VanderPlas</author>
+    </book>
+    <book category="technical">
+        <isbn>ISBN: 9781593279288</isbn>
+        <title lang="en">Python Crash Course, 2nd Edition</title>
+        <author>Eric Matthes</author>
+    </book>
+    <book category="cookery">
+        <isbn>1782112308</isbn>
+        <title lang="en">Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking</title>
+        <author>Samin Nosrat, Wendy MacNaughton</author>
+    </book>
+    <book category="cookery">
+        <isbn>1913260356</isbn>
+        <title lang="en">The Concise Guide to Wine and Blind Tasting: Combined Edition</title>
+        <author>Neel Burton</author>
+    </book>
+</library>
